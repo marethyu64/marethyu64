@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Jayden and my goal is to not be unemployed. I like Chainsaw Man!
+Hi there 👋 My name is Jayden and my goal is to not be unemployed. I like Chainsaw Man!
 
 <!--
 **marethyu64/marethyu64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
