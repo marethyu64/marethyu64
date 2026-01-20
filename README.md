@@ -1,4 +1,4 @@
-Hi there 👋 My name is Jayden and I like coding video games!
+Hi there 👋 My name is Jayden and I like making things!
 
 <!--
 **marethyu64/marethyu64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
