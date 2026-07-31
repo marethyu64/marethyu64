@@ -12,7 +12,7 @@
 
 I'm a Computer Science student at UC Irvine (Class of 2028) building full-stack products and machine learning models that solve real problems. I'm currently a **Full Stack Developer Intern at Uplifty AI**, where I work on React Native apps and Supabase-backed geospatial systems, and an **AI/ML Fellow with Break Through Tech**, where I train and evaluate classification models with a focus on fairness and interpretability.
 
-I'm looking for **Software Engineering and Machine Learning internships/new-grad roles** for 2027, where I can keep building products end to end — from data pipelines and backend architecture to the AI features on top of them.
+I'm looking for **Software Engineering and Machine Learning internships**, where I can keep building products end to end — from data pipelines and backend architecture to the AI features on top of them.
 
 ---
 
