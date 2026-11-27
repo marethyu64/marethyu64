@@ -6,18 +6,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jayden--woo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayden-woo)
-[![Email](https://img.shields.io/badge/Email-jwoo888@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwoo888@gmail.com)
-[![Website](https://img.shields.io/badge/Website-jaydenwoo.dev-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://jaydenwoo.dev)
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Computer Science major at **UC Irvine** (B.S., expected June 2028)
-- 🌱 Building full-stack apps, serverless AWS backends, and explainable ML models
+- 🌱 Building full-stack apps, AWS backends, and explainable ML models
 - 🤝 I like working on projects that help people: nonprofits, research, and open-source tooling
 - 🎮 Started programming through game development in Roblox Studio
 
@@ -27,9 +23,9 @@
 
 | | |
 |---|---|
-| 💻 **Full-Stack Developer** @ [Commit the Change](https://github.com/marethyu64) | Building a full-stack management platform for a nonprofit with 14+ engineers and 6+ designers |
-| 🧠 **Undergrad Research Assistant** @ Stark Lab (UCI) | Building a game-based memory test for Alzheimer's research with React and a serverless AWS backend |
-| 🏨 **AI Studio Fellow** @ Break Through Tech x Cornell Tech | Detecting no-show fraud for Wyndham Hotels & Resorts with explainable ML |
+| 💻 **Full-Stack Developer** @ [Commit the Change](https://ctc-uci.com/) | Building a full-stack management platform for a nonprofit with 14+ engineers and 6+ designers |
+| 🧠 **Undergrad Research Assistant** @ [Stark Lab (UCI)](https://faculty.sites.uci.edu/starklab/) | Building a game-based memory test for Alzheimer's research with React and a serverless AWS backend |
+| 🏨 **AI Studio Fellow** @ Break Through Tech x Cornell Tech | Detecting fraud for Wyndham Hotels & Resorts with explainable ML |
 | 📚 **Learning** | Data structures, information retrieval, and cloud architecture at UCI |
 
 ---
