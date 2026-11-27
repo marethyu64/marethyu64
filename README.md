@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jayden%20Woo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20@%20UC%20Irvine%20%7C%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20ML&descSize=18&descAlignY=60" width="100%" alt="header" />
-
 <a href="https://github.com/marethyu64">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jayden+%F0%9F%91%8B;CS+student+at+UC+Irvine;I+build+full-stack+apps+%26+ML+tools;Currently+shipping+for+nonprofits+and+research" alt="Typing SVG" />
 </a>
