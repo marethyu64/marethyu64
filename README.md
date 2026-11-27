@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jayden+%F0%9F%91%8B;CS+student+at+UC+Irvine;I+build+full-stack+apps+%26+ML+tools;Currently+shipping+for+nonprofits+and+research" alt="Typing SVG" />
 </a>
 
-<br/>
-
 </div>
 
 ---
